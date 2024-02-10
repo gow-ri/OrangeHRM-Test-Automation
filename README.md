@@ -5,3 +5,11 @@ I undertook a personal QA project to test OrangeHRM, a popular HR management sof
 - Developed a Selenium WebDriver script in Java to automate the login process.
 - Executed the script across different browsers to ensure compatibility.
 - Enhanced understanding of test automation principles and frameworks.
+
+## Repository Link
+https://github.com/ergowri/OrangeHRM-Test-Automation
+
+## Skills
+
+
+
